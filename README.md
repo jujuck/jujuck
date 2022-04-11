@@ -16,6 +16,9 @@
 ## Day to day
 - 🔭 You will find on the github, works that I did during my BootCamp @Arinfo in la Roche sur Yon, and workshop with correction that I propose to student to help them confirm their new skills...
 
+## Dev Code awards for technical watch
+<a href="https://app.daily.dev/JulienYRichard"><img src="https://api.daily.dev/devcards/e06c2d7fc0164cae950fa0bd909db1b9.png?r=blf" width="400" alt="Julien Richard's Dev Card"/></a>
+
 
 ## My Last portfolio on Angular with Express (And a few API)
 https://richard-julien.fr
