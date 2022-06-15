@@ -1,5 +1,5 @@
 ### Hello Dev Planets 👋
-<img src="https://richard-julien.fr/assets/images/Web-developpement-portfolio-javascript-code-informatique.jpg" alt="jujuck hero image on github" />
+
 - ✨ I'am a JS trainer @WildCodeSchool in Nantes. We teach JS, React, Node and Express with care and passion.
 - 🤔 Before I was JS developper on Sencha for a start up company, specialized on data governance
 
