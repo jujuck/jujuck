@@ -1,8 +1,12 @@
 ### Hi there 👋
 
 ```
-<h1>Mon code
+<h1>Mon code</h1>
+
 ```
+*title*
+
+<p>Ceci est une descritpion </p>
 
 <!--
 **jujuck/jujuck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
