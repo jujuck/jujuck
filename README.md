@@ -12,8 +12,6 @@
   - 💬 Ask me about **React, Vue, Express**
   </div>
 
-<a align="right" href="https://app.daily.dev/JulienYRichard"><img src="https://api.daily.dev/devcards/e06c2d7fc0164cae950fa0bd909db1b9.png?r=3j2" width="400" alt="Julien Richard's Dev Card"/></a>
-
 </div>
 
 <h3 align="left">Connect with me:</h3>
@@ -28,3 +26,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jujuck&show_icons=true&locale=en&layout=compact" alt="jujuck" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jujuck&show_icons=true&locale=en" alt="jujuck" /></p>
+
+<h3>And keep learning</h3>
+<a align="right" href="https://app.daily.dev/JulienYRichard"><img src="https://api.daily.dev/devcards/e06c2d7fc0164cae950fa0bd909db1b9.png?r=3j2" width="400" alt="Julien Richard's Dev Card"/></a>
