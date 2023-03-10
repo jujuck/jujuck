@@ -1,14 +1,16 @@
-<div>
-<h1 align="center">Hi 👋, I'm Julien Richard</h1>
-<h3 align="center">A passionate fullstack JS trainer from France. Working @Wild Code School for more than on years, I like to teach JS, React all I know about coding. On my free time, I would love to spend time on the nature, as running, canoeing or trailing</h3>
+<div class="flex">
+  <div>
+  <h1 align="center">Hi 👋, I'm Julien Richard</h1>
+  <h3 align="center">A passionate fullstack JS trainer from France. Working @Wild Code School for more than on years, I like to teach JS, React all I know about coding. On my free time, I would love to spend time on the nature, as running, canoeing or trailing</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jujuck&label=Profile%20views&color=0e75b6&style=flat" alt="jujuck" /> </p>
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=jujuck&label=Profile%20views&color=0e75b6&style=flat" alt="jujuck" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jujuck" alt="jujuck" /></a> </p>
+  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jujuck" alt="jujuck" /></a> </p>
 
-- 🌱 I’m currently learning **NuxtJs, Redis**
+  - 🌱 I’m currently learning **NuxtJs, Redis**
 
-- 💬 Ask me about **React, Vue, Express**
+  - 💬 Ask me about **React, Vue, Express**
+  </div>
 
 <a href="https://app.daily.dev/JulienYRichard"><img src="https://api.daily.dev/devcards/e06c2d7fc0164cae950fa0bd909db1b9.png?r=3j2" width="400" alt="Julien Richard's Dev Card"/></a>
 
