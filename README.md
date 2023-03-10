@@ -1,4 +1,4 @@
-<div class="flex">
+<div style="display:flex">
   <div>
   <h1 align="center">Hi 👋, I'm Julien Richard</h1>
   <h3 align="center">A passionate fullstack JS trainer from France. Working @Wild Code School for more than on years, I like to teach JS, React all I know about coding. On my free time, I would love to spend time on the nature, as running, canoeing or trailing</h3>
