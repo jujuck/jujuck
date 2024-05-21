@@ -7,7 +7,7 @@
 
   <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jujuck" alt="jujuck" /></a> </p>
 
-  - 🌱 I’m currently learning **NuxtJs, Redis**
+  - 🌱 I’m currently learning **NestJS, Redis, Canva**
 
   - 💬 Ask me about **React, Vue, Express**
   </div>
